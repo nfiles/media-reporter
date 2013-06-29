@@ -1,0 +1,34 @@
+{
+  "movies": [
+    {
+      "title": "title",
+      "year": "year",
+      "path": "path"
+    },
+    {
+      "title": "title",
+      "year": "year",
+      "path": "path"
+    }
+  ],
+  "tvshows": [
+    {
+      "title": "title",
+      "seasons": {
+        "number": "number",
+        "episodes": [
+          {
+            "name": "name",
+            "number": "number",
+            "path": "path"
+          },
+          {
+            "name": "name",
+            "number": "number",
+            "path": "path"
+          }
+        ]
+      }
+    }
+  ]
+}
