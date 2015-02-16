@@ -1,1 +1,5 @@
+# scaffolded media library
 Test/
+
+# Sublime Text
+*.sublime-workspace
