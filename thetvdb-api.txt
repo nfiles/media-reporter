@@ -1,4 +1,0 @@
-TheTVDB.com API
-media-reporter
-Account ID: ozIN8VFn21Mc
-API Key:    95DD067AC019C946
